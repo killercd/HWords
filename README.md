@@ -1,2 +1,2 @@
 # HWords
-highlights a line in base of regex
+highlights a line using a regex
